@@ -1,0 +1,9 @@
+In this assignment, my Professor given us 5 sorting algorithms: Insertion Sort, Selection Sort, Merge Sort, Quick Sort, and Radix Sort. For the minimum amount to accomplish for
+this assignment was to add a movement probe, comparison probe, and time probe while allowing the user to decide which algorithm to implement and the type of lists they wish to 
+sort. In addition, the professor wished for us to generate a report that analysises the given sorts and choose a winning algorithm for each list. As an extra bonus, my professor 
+asked for us to create a GUI for the project and also another bonus of adding to the project with our version of creativity. However, the creativity has to based on improving
+the project not to create an entirely new project. 
+
+In this folder, there is an excel file that is the results of all of the texts both for each sorting algorithms for different types of lists at different sizes. Next there is a 
+word file which is the report concluding all of the anaylsis given by the excel file and my personal discoveries of the program that I have created. Lastly, there is all of the 
+code for the assignment.
